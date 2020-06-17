@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "AdvancedGIT-Example"
+    }
+  },
+  "defaultProject": "AdvancedGIT-Example",
+  "cli": {
+    "analytics": false
+  }
 }
