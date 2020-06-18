@@ -1,0 +1,47 @@
+[
+  {
+      "name": "Hobbit"
+    , "yearReleased": 2012
+    , "rating": "PG-13"
+    , "votes": 0
+    , "image": "./assets/Hobbit.jpg"
+    , "imdbLink": "https://www.imdb.com/title/tt0903624/"
+    , "youTubeMusicLink": "https://music.youtube.com/playlist?list=OLAK5uy_kelsA6OHAycQ7XdZWAHD6rZP3bxQptPSw"
+  }
+, {
+      "name": "Hobgoblins"
+    , "yearReleased": 1988
+    , "rating": "NR"
+    , "votes": 0
+    , "image": "./assets/Hobgoblins.jpg"
+    , "imdbLink": "https://www.imdb.com/title/tt0089280/?ref_=nv_sr_srsg_0"
+    , "youTubeMusicLink": ""
+  }
+, {
+      "name": "Jack and Jill"
+    , "yearReleased": 2011
+    , "rating": "PG"
+    , "votes": 0
+    , "image": "./assets/JackNJill.jpg"
+    , "imdbLink": "https://www.imdb.com/title/tt0810913/?ref_=nv_sr_srsg_0"
+    , "youTubeMusicLink": ""
+  }
+, {
+      "name": "The Last Airbender"
+    , "yearReleased": 2010
+    , "rating": "PG"
+    , "votes": 0
+    , "image": "./assets/LastAirbender.jpg"
+    , "imdbLink": "https://www.imdb.com/title/tt0938283/?ref_=fn_al_tt_1"
+    , "youTubeMusicLink": "https://music.youtube.com/playlist?list=OLAK5uy_l0tiNYqzMwOHFcfzj0WVcMHpXPBDSrYt4"
+  }
+, {
+      "name": "Solo"
+    , "yearReleased": 2018
+    , "rating": "PG-13"
+    , "votes": 0
+    , "image": "./assets/Solo.jpg"
+    , "imdbLink": "https://www.imdb.com/title/tt3778644/?ref_=nv_sr_srsg_0"
+    , "youTubeMusicLink": "https://music.youtube.com/playlist?list=OLAK5uy_m-gVRU1K3SzRoZvlehjy-HfK76AhA0jTc"
+  }
+]

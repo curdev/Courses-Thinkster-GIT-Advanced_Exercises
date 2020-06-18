@@ -11,12 +11,12 @@
           <h5 class="card-title">{{ movie.title }}</h5>
           <p class="card-text">Number of Votes: {{ movie.votes }}</p>
           <div class="row">
-            <div class="col-6">
+            <div class="col-5">
               <button
                 (click)="Vote(movie)" 
                 class="btn btn-primary">Vote</button>
             </div>
-            <div class="col-6">
+            <div class="col-5">
               <button
                 [hidden]="movie.votes < 1"
                 (click)="UnVote(movie)" 
